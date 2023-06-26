@@ -45,4 +45,4 @@ Feel free to check out my projects and provide feedback. I am always looking for
 
 ---
 
-[FreeCodeCamp](https://www.freecodecamp.org/) is a non-profit organization that offers a plethora of free-to-access coding courses covering various aspects of web development. I am grateful for the opportunity to learn and grow through their platform.
+
